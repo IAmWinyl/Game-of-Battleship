@@ -1,2 +1,1 @@
-# Game-of-Battleship
-Made for a take-home interview
+Completed for a take-home interview
